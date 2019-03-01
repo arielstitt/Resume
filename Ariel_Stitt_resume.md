@@ -2,7 +2,7 @@
 
 Experience
 
-### General Assembly , Atlanta, GA | [GeneralAssemb.ly](https://generalassemb.ly/)
+ **General Assembly , Atlanta, GA | [GeneralAssemb.ly](https://generalassemb.ly/)**
 
 	Instructor Assistant, May - July 2018
 
@@ -10,7 +10,7 @@ Experience
 - Expanded the knowledge base by organizing the first off-campus field trip
 - Helped 20+ students on 5 projects increasing in difficulty over a 12 weeks period
 
-### ShowNets, Atlanta, GA | shownets.net
+**ShowNets, Atlanta, GA | [shownets.net](https://www.shownets.net/)**
 
 	Network Technician, November 2016 - Present
 
