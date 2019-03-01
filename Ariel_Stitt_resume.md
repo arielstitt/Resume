@@ -1,6 +1,6 @@
-## Ariel Stitt
+# Ariel Stitt
 
-#### Experience
+### Experience
 
  **General Assembly , Atlanta, GA | [GeneralAssemb.ly](https://generalassemb.ly/)**
 
@@ -25,7 +25,7 @@
 - Achieved top 3 employees of technical support within 3 months of employment
 - Helped support technicians by answering questions and coaching through calls
 
-#### Projects
+### Projects
 
 **Eyes on Health and Wellness, Atlanta, GA  [www.healthandwellness.com](www.healthandwellness.com)**
 
@@ -40,14 +40,14 @@ Implemented a Full-stack candle store application using react on rails
 
 - Designed logo, created unique smells, and graphic shirts
 
-#### Skills 
+### Skills 
 
 **Tools**:   Git, Postman, Compass, VS Code
 **Frameworks/ Libraries**:  React,  Ruby on Rails, Express, Activerecord, npm, 
 **Databases**: PostgreSQL, SQL, Mongo
 **Languages**: Javascript, Ruby
 
-#### Education 
+### Education 
 
 **General Assembly, Full Stack Web Development | 2018**
 
