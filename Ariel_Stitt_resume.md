@@ -44,8 +44,11 @@ Implemented a Full-stack candle store application using react on rails
 ### Skills 
 
 **Tools**:   Git, Postman, Compass, VS Code
-**Frameworks/ Libraries**:  React,  Ruby on Rails, Express, Activerecord, npm, 
+
+**Frameworks/ Libraries**:  React,  Ruby on Rails, Express, Activerecord, npm
+
 **Databases**: PostgreSQL, SQL, Mongo
+
 **Languages**: Javascript, Ruby
 
 ### Education 
