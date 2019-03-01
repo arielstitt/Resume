@@ -2,7 +2,7 @@
 
 Experience
 
-**General Assembly**, Atlanta, GA | GeneralAssemb.ly
+### General Assembly , Atlanta, GA | [GeneralAssemb.ly](https://generalassemb.ly/)
 
 	Instructor Assistant, May - July 2018
 
@@ -10,12 +10,15 @@ Experience
 - Expanded the knowledge base by organizing the first off-campus field trip
 - Helped 20+ students on 5 projects increasing in difficulty over a 12 weeks period
 
-**ShowNets**, Atlanta, GA | shownets.net
+### ShowNets, Atlanta, GA | shownets.net
+
 	Network Technician, November 2016 - Present
-Coordinated with A/V teams for VMworld, AWS re:Invent, and Dreamforce
-Identified and organized equipment needs for floors with up to 60 rooms
-Amplified connectivity for conventions accommodating up to 170,000 people
-	The Home Depot, Marietta, GA | homedepot.com
+
+- Coordinated with A/V teams for VMworld, AWS re:Invent, and Dreamforce
+- Identified and organized equipment needs for floors with up to 60 rooms
+- Amplified connectivity for conventions accommodating up to 170,000 people
+
+	#### The Home Depot, Marietta, GA | homedepot.com
 	Technical Support, November - June 2017
 Increased troubleshooting metrics from 250 tickets to 480 tickets per month 
 Achieved top 3 employees of technical support within 3 months of employment
