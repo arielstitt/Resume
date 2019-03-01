@@ -5,6 +5,7 @@ arielstitt@gmail.com | 678-499-3189 | https://arielstitt.herokuapp.com/ | github
 # Ariel Stitt
 
 ### Experience
+***
 
  **General Assembly , Atlanta, GA | [GeneralAssemb.ly](https://generalassemb.ly/)**
 Instructor Assistant, May - July 2018
@@ -28,6 +29,7 @@ Technical Support, November - June 2017
 - Helped support technicians by answering questions and coaching through calls
 
 ### Projects
+***
 
 **Eyes on Health and Wellness, Atlanta, GA  [www.healthandwellness.com](www.healthandwellness.com)**
 Web Developer/ Volunteer, June 2018
@@ -42,6 +44,7 @@ Implemented a Full-stack candle store application using react on rails
 - Designed logo, created unique smells, and graphic shirts
 
 ### Skills 
+***
 
 **Tools**:   Git, Postman, Compass, VS Code
 
@@ -52,6 +55,7 @@ Implemented a Full-stack candle store application using react on rails
 **Languages**: Javascript, Ruby
 
 ### Education 
+***
 
 **General Assembly, Full Stack Web Development | 2018**
 
