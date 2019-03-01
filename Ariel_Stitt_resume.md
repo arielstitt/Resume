@@ -1,3 +1,7 @@
+arielstitt@gmail.com | 678-499-3189 | https://arielstitt.herokuapp.com/ | github.com/arielstitt
+ 
+***
+
 # Ariel Stitt
 
 ### Experience
